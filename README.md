@@ -1,8 +1,7 @@
-# Correlation Vector PHP
+# Microsoft Correlation Vector PHP
 
 Microsoft-CorrelationVector-PHP provides the PHP implementation of the CorrelationVector protocol for tracing and correlation of events through a distributed system.
 
-# Correlation Vector
 ## Background
 
 **Correlation Vector** (a.k.a. **cV**) is a format and protocol standard for tracing and correlation of events through a distributed system based on a light weight vector clock.
